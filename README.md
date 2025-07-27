@@ -39,7 +39,7 @@ Each day includes:
 ├── day_02/
 │   └── ...
 │
-├── Course_Readme.md  (this file)
+├── readme.md  (this file)
 └── ...
 ```
 
