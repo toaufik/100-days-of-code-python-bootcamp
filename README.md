@@ -14,7 +14,7 @@ Each day includes:
 | Day | Project             | Description                                |
 | --- | ------------------- | ------------------------------------------ |
 | 1   | Band Name Generator | Simple input/output practice using strings |
-| ... | ...                 | ...                                        |
+| 2   | Tip Calculator      | Data Types, Numbers, Operations, Type Conversion, f-Strings |
 
 ---
 
@@ -33,10 +33,14 @@ Each day includes:
 100-days-of-code-python/
 │
 ├── day_01/
-│   ├── band_name_generator.py
+│   ├── main.py
 │   └── README.md
 │
 ├── day_02/
+│   ├── main.py
+│   └── README.md
+│
+├── day_03/
 │   └── ...
 │
 ├── readme.md  (this file)
