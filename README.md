@@ -16,6 +16,7 @@ Each day includes:
 | 1   | Band Name Generator | Simple input/output practice using strings |
 | 2   | Tip Calculator      | Data Types, Numbers, Operations, Type Conversion, f-Strings |
 | 3   | Treasure Island     | Conditional logic, Nested conditional logic, Multi-stage decision trees |
+| 4   | Rock, Paper, Scissors   | Random module, Lists, Nested lists, IndexError, Game Logic |
 
 ---
 
@@ -42,6 +43,10 @@ Each day includes:
 │   └── README.md
 │
 ├── day_03/
+│   ├── main.py
+│   └── README.md
+│
+├── day_04/
 │   ├── main.py
 │   └── README.md
 │
