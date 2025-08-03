@@ -7,16 +7,16 @@ Each day includes:
 - A Python script or project file
 - A focused `README.md` explaining the key concepts used that day
 
----
 
 ## 📅 Progress Tracker
 
-| Day | Project             | Description                                |
-| --- | ------------------- | ------------------------------------------ |
-| 1   | Band Name Generator | Simple input/output practice using strings |
-| 2   | Tip Calculator      | Data Types, Numbers, Operations, Type Conversion, f-Strings |
-| 3   | Treasure Island     | Conditional logic, Nested conditional logic, Multi-stage decision trees |
-| 4   | Rock, Paper, Scissors   | Random module, Lists, Nested lists, IndexError, Game Logic |
+| Day | Project                   | Description                                                                         |
+| --- | ------------------------- | ----------------------------------------------------------------------------------- |
+| 1   | **Band Name Generator**   | Basic input/output, working with strings, user interaction                          |
+| 2   | **Tip Calculator**        | Data types, arithmetic operations, type conversion, formatted strings (`f-strings`) |
+| 3   | **Treasure Island**       | Conditional statements, nested logic, building multi-step decision trees            |
+| 4   | **Rock, Paper, Scissors** | `random` module, lists, user vs computer logic, handling `IndexError`               |
+| 5   | **PyPassword Generator**  | `random` module, list manipulation, loops, string joining, password generation      |
 
 ---
 
@@ -47,6 +47,10 @@ Each day includes:
 │   └── README.md
 │
 ├── day_04/
+│   ├── main.py
+│   └── README.md
+│
+├── day_05/
 │   ├── main.py
 │   └── README.md
 │
