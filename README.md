@@ -17,6 +17,7 @@ Each day includes:
 | 3   | **Treasure Island**       | Conditional statements, nested logic, building multi-step decision trees            |
 | 4   | **Rock, Paper, Scissors** | `random` module, lists, user vs computer logic, handling `IndexError`               |
 | 5   | **PyPassword Generator**  | `random` module, list manipulation, loops, string joining, password generation      |
+| 6   | **Maze Game**  | `while`, `function`, 'if, elif, else',       |
 
 ---
 
@@ -37,26 +38,11 @@ Each day includes:
 ├── day_01/
 │   ├── main.py
 │   └── README.md
-│
-├── day_02/
-│   ├── main.py
-│   └── README.md
-│
-├── day_03/
-│   ├── main.py
-│   └── README.md
-│
-├── day_04/
-│   ├── main.py
-│   └── README.md
-│
-├── day_05/
-│   ├── main.py
-│   └── README.md
-│
+│ 
 ├── readme.md  (this file)
 └── ...
 ```
+- Each `day_xx` folder contains a self-contained project file.
 
 ---
 
